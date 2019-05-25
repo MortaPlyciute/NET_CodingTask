@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\NET_CodingTaskDB\NET_CodingTaskDB.sqlproj" />
+  </ItemGroup>
+
 </Project>
