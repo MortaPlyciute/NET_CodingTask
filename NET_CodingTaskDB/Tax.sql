@@ -4,5 +4,5 @@
     [StartDate] DATE NOT NULL, 
     [EndDate] DATE NULL, 
     [Value] DECIMAL(10, 4) NOT NULL, 
-    [Type] NCHAR(1) NOT NULL
+    [Type] INT NOT NULL
 )

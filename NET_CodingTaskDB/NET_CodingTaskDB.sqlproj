@@ -60,6 +60,8 @@
   <ItemGroup>
     <Build Include="Municipality.sql" />
     <Build Include="Tax.sql" />
-    <Build Include="TaxTable.sql" />
+    <Build Include="TaxByMunicipality.sql" />
+    <Build Include="FindTaxes.sql" />
+    <Build Include="AddTax.sql" />
   </ItemGroup>
 </Project>

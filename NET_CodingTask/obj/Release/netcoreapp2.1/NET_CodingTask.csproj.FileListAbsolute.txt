@@ -1,0 +1,11 @@
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Release\netcoreapp2.1\NET_CodingTask.deps.json
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Release\netcoreapp2.1\NET_CodingTask.runtimeconfig.json
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Release\netcoreapp2.1\NET_CodingTask.runtimeconfig.dev.json
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Release\netcoreapp2.1\NET_CodingTask.dll
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Release\netcoreapp2.1\NET_CodingTask.pdb
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Release\netcoreapp2.1\NET_CodingTask.csprojAssemblyReference.cache
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Release\netcoreapp2.1\NET_CodingTask.csproj.CoreCompileInputs.cache
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Release\netcoreapp2.1\NET_CodingTask.AssemblyInfoInputs.cache
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Release\netcoreapp2.1\NET_CodingTask.AssemblyInfo.cs
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Release\netcoreapp2.1\NET_CodingTask.dll
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Release\netcoreapp2.1\NET_CodingTask.pdb

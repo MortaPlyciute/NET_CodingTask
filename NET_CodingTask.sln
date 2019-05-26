@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET_CodingTask", "NET_CodingTask\NET_CodingTask.csproj", "{CDBB2934-8E51-4C76-AF2A-696DD64FDB9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET_CodingTask_NUnitTests", "NET_CodingTask_NUnitTests\NET_CodingTask_NUnitTests.csproj", "{8A76FEA8-7FE9-4DAD-89F2-B218821DFF08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET_CodingTask_NUnitTests", "NET_CodingTask_NUnitTests\NET_CodingTask_NUnitTests.csproj", "{8A76FEA8-7FE9-4DAD-89F2-B218821DFF08}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "NET_CodingTaskDB", "NET_CodingTaskDB\NET_CodingTaskDB.sqlproj", "{D58E11DA-FA07-43F0-82B4-A801C4880DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterfaceApp", "UserInterfaceApp\UserInterfaceApp.csproj", "{A5EAAD1B-CB74-4FF8-9FAE-41D40ECFD706}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{D58E11DA-FA07-43F0-82B4-A801C4880DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D58E11DA-FA07-43F0-82B4-A801C4880DDE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D58E11DA-FA07-43F0-82B4-A801C4880DDE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A5EAAD1B-CB74-4FF8-9FAE-41D40ECFD706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EAAD1B-CB74-4FF8-9FAE-41D40ECFD706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EAAD1B-CB74-4FF8-9FAE-41D40ECFD706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EAAD1B-CB74-4FF8-9FAE-41D40ECFD706}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

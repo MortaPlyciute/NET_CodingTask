@@ -6,8 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\NET_CodingTaskDB\NET_CodingTaskDB.sqlproj" />
-    <ProjectReference Include="..\NET_CodingTaskDB\NET_CodingTaskDB.sqlproj" />
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
   </ItemGroup>
 
 </Project>

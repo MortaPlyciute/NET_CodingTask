@@ -3,12 +3,9 @@ C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Debug\netcor
 C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Debug\netcoreapp2.1\NET_CodingTask.runtimeconfig.dev.json
 C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Debug\netcoreapp2.1\NET_CodingTask.dll
 C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Debug\netcoreapp2.1\NET_CodingTask.pdb
-C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Debug\netcoreapp2.1\NET_CodingTask.csprojAssemblyReference.cache
 C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Debug\netcoreapp2.1\NET_CodingTask.csproj.CoreCompileInputs.cache
 C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Debug\netcoreapp2.1\NET_CodingTask.AssemblyInfoInputs.cache
 C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Debug\netcoreapp2.1\NET_CodingTask.AssemblyInfo.cs
 C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Debug\netcoreapp2.1\NET_CodingTask.dll
 C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Debug\netcoreapp2.1\NET_CodingTask.pdb
-C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Debug\netcoreapp2.1\NET_CodingTaskDB.dll
-C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\bin\Debug\netcoreapp2.1\NET_CodingTaskDB.pdb
-C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Debug\netcoreapp2.1\NET_CodingTask.csproj.CopyComplete
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTask\obj\Debug\netcoreapp2.1\NET_CodingTask.csprojAssemblyReference.cache

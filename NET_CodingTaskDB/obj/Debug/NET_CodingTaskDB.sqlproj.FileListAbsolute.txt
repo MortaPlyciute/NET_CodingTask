@@ -3,3 +3,12 @@ C:\Users\Guest01\Documents\GitHub\NET_CodingTaskDB\obj\Debug\NET_CodingTaskDB.dl
 C:\Users\Guest01\Documents\GitHub\NET_CodingTaskDB\obj\Debug\NET_CodingTaskDB.pdb
 C:\Users\Guest01\Documents\GitHub\NET_CodingTaskDB\bin\Debug\NET_CodingTaskDB.dll
 C:\Users\Guest01\Documents\GitHub\NET_CodingTaskDB\bin\Debug\NET_CodingTaskDB.pdb
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTaskDB\bin\Debug\NET_CodingTaskDB.dacpac
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTaskDB\obj\Debug\NET_CodingTaskDB.dll
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTaskDB\obj\Debug\NET_CodingTaskDB.pdb
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTaskDB\bin\Debug\NET_CodingTaskDB.dll
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTaskDB\bin\Debug\NET_CodingTaskDB.pdb
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTaskDB\obj\Debug\Model.xml
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTaskDB\obj\Debug\refactor.xml
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTaskDB\obj\Debug\postdeploy.sql
+C:\Users\Guest01\Documents\GitHub\NET_CodingTask\NET_CodingTaskDB\obj\Debug\predeploy.sql

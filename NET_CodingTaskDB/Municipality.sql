@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Table1]
+﻿CREATE TABLE [dbo].[Municipality]
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
     [Name] NVARCHAR(30) NOT NULL UNIQUE
